@@ -5,9 +5,9 @@ wishlist
 
 
 
-Une idée de présentation ? **[Poste une issue](https://github.com/lyonrb/wishlist/issues/new) !**
+Une idée de présentation ? **[Postez une issue](https://github.com/lyonrb/wishlist/issues/new) !**
 
-tu peux ajouter ajouter des idées de talk même si tu ne veux pas les présenter toi-même !
+Vous pouvez également ajouter des idées de talk, même si vous ne souhaitez pas les présentez vous même !
 
 *Want to talk about something or submit an idea?* **[Post an issue](https://github.com/lyonrb/wishlist/issues/new)!**
 
