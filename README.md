@@ -3,7 +3,7 @@ wishlist
 
 ### Suggestions de présentations - talks wishlist for lyon.rb meetups
 
-Proposez des idées de talks que vous aimeriez voir, ou présenter, lors des meetups de lyon.rb.
+Proposez des idées de talks que vous aimeriez voir, ou présenter, lors des [meetups de lyon.rb](https://www.meetup.com/Lyon-Ruby-Brigade/).
 
 Une idée de présentation ? **[Postez une issue](https://github.com/lyonrb/wishlist/issues/new) !**
 
@@ -11,8 +11,10 @@ Vous pouvez également ajouter des idées de talk, même si vous ne souhaitez pa
 
 *Want to talk about something or submit an idea?* **[Post an issue](https://github.com/lyonrb/wishlist/issues/new)!**
 
+Vous souhaitez en discuter ? Rejoignez-nous sur le [Slack de Lyon Tech Hub](https://slack.lyontechhub.org/) : channel **#lyonrb**
 
-####tags : 
+
+#### tags : 
 
 [next meetup](https://github.com/lyonrb/wishlist/issues?labels=next-meetup&state=open) : les talks du prochain meetup
 
